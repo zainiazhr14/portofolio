@@ -1,0 +1,8 @@
+.stack-img {
+    filter: grayscale(1);
+    transition: all .7s ease;
+}
+.stack-img:hover {
+    filter: grayscale(0);
+    cursor: pointer;
+}
